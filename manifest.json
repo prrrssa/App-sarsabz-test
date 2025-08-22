@@ -1,0 +1,25 @@
+{
+  "short_name": "صرافی سبز",
+  "name": "صرافی سبز - سیستم حسابداری",
+  "description": "یک سیستم حسابداری برای صرافی جهت مدیریت موجودی ارزها، ثبت تراکنش‌ها، مدیریت مشتریان و گزارش‌گیری.",
+  "icons": [
+    {
+      "src": "./assets/logo_sabz_icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/logo_sabz_icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#16a34a",
+  "background_color": "#ffffff",
+  "dir": "rtl",
+  "lang": "fa"
+}
